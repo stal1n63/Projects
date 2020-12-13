@@ -1,0 +1,11 @@
+C:\Users\stal1\source\repos\PixelWrapper_ForCamo's\PixelWrapper_ForCamo's\bin\Debug\PixelWrapper_ForCamo's.exe.config
+C:\Users\stal1\source\repos\PixelWrapper_ForCamo's\PixelWrapper_ForCamo's\bin\Debug\PixelWrapper_ForCamo's.exe
+C:\Users\stal1\source\repos\PixelWrapper_ForCamo's\PixelWrapper_ForCamo's\bin\Debug\PixelWrapper_ForCamo's.pdb
+C:\Users\stal1\source\repos\PixelWrapper_ForCamo's\PixelWrapper_ForCamo's\obj\Debug\PixelWrapper_ForCamo's.csprojAssemblyReference.cache
+C:\Users\stal1\source\repos\PixelWrapper_ForCamo's\PixelWrapper_ForCamo's\obj\Debug\PixelWrapper_ForCamo_s.Form1.resources
+C:\Users\stal1\source\repos\PixelWrapper_ForCamo's\PixelWrapper_ForCamo's\obj\Debug\PixelWrapper_ForCamo_s.Properties.Resources.resources
+C:\Users\stal1\source\repos\PixelWrapper_ForCamo's\PixelWrapper_ForCamo's\obj\Debug\PixelWrapper_ForCamo's.csproj.GenerateResource.cache
+C:\Users\stal1\source\repos\PixelWrapper_ForCamo's\PixelWrapper_ForCamo's\obj\Debug\PixelWrapper_ForCamo's.csproj.CoreCompileInputs.cache
+C:\Users\stal1\source\repos\PixelWrapper_ForCamo's\PixelWrapper_ForCamo's\obj\Debug\PixelWrapper_ForCamo's.exe
+C:\Users\stal1\source\repos\PixelWrapper_ForCamo's\PixelWrapper_ForCamo's\obj\Debug\PixelWrapper_ForCamo's.pdb
+C:\Users\stal1\source\repos\PixelWrapper_ForCamo's\PixelWrapper_ForCamo's\obj\Debug\PixelWrapper_ForCamo_s.Form2.resources
